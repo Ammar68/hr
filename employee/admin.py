@@ -11,5 +11,3 @@ admin.site.register(Employee, EmployeeAdmin)
 
 ''' Unregistered Models '''
 
-# admin.site.unregister(User)
-# admin.site.unregister(Group)
